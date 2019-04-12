@@ -5,7 +5,7 @@ int main()
 {
 	for (int i = 1; i < 9; i++)
 	{
-		for (int j; j < 8; j++)
+		for (int j; j < 9; j++)
 		{
 			cout << i * j << '\t';
 		}
